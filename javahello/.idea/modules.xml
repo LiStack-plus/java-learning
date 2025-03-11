@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaapp/javaapp.iml" filepath="$PROJECT_DIR$/javaapp/javaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javahello.iml" filepath="$PROJECT_DIR$/javahello.iml" />
+    </modules>
+  </component>
+</project>
